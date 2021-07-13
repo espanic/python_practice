@@ -17,6 +17,7 @@ while len(demise) < n:
     num=list(range(x,1000*l))
     x = 1000*l
     l+=1
-
 print(demise[n-1])
+
+#github 수정 1번
     
